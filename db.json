@@ -1,0 +1,10 @@
+{
+  "countries": [
+    { "id": 1, "name": "United States", "percentage": "45","colorCode": "pink" },
+    { "id": 2, "name": "Canada", "percentage": "13","colorCode": "blue" },
+    { "id": 3, "name": "India", "percentage": "90","colorCode": "red" },
+    { "id": 4, "name": "France", "percentage": "9","colorCode": "blue" },
+    { "id": 5, "name": "New York", "percentage": "45","colorCode": "orange" },
+    { "id": 6, "name": "Germany", "percentage": "3","colorCode": "gray" }
+  ]
+}
